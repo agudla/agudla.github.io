@@ -1,0 +1,38 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+
+div{
+    border: outset red;
+}
+
+body{
+    font-family: 'Karla';
+}
+
+h3{
+    text-align: center;
+}
+pre{
+    font-family: sans-serif;
+}
+
+table{
+    border-collapse: collapse;
+    /* border-spacing: 100px 5px; */
+}
+
+li{
+    display: inline-block;
+}
+
+.fname{
+    margin-left: 50px;
+    margin-right: 1100px;
+}
+
+.bdate{
+    text-align: right;
+    margin-top: 50px;
+}
